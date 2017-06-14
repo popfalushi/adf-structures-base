@@ -20,6 +20,6 @@
     "adf-structures"
   ],
   "dependencies": {
-    "angular-dashboard-framework": "git+https://github.com/zmaximov/angular-dashboard-framework#0.12.0"
+    "angular-dashboard-framework": "git+https://github.com/zmaximov/angular-dashboard-framework#0.12.1"
   }
 }
